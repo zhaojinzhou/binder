@@ -1,3 +1,13 @@
 ffmpeg
 transmission-daemon
 transmission-cli
+vnc4server
+ifstat
+xrdp
+fluxbox
+vlc
+chromium-browser
+transmission
+transmission-daemon 
+terminology
+vim  
