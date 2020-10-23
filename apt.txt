@@ -1,3 +1,6 @@
+xauth
+xorg
+openbox
 net-tools
 vim
 fluxbox
