@@ -4,3 +4,4 @@ libgflags-dev
 libssl-dev
 libboost-all-dev
 libgoogle-glog-dev
+libprotoc-dev
