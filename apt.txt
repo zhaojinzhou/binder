@@ -5,3 +5,6 @@ libssl-dev
 libboost-all-dev
 libgoogle-glog-dev
 libprotoc-dev
+git
+liblapack-dev libblas-dev
+python3-pip
