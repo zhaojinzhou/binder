@@ -6,6 +6,7 @@ vim
 fluxbox
 novnc
 ffmpeg
+git
 transmission-daemon
 transmission-cli
 vnc4server
