@@ -2,3 +2,4 @@ libssl-dev
 git
 liblapack-dev libblas-dev
 python3-pip
+vim
