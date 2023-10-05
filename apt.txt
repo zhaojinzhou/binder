@@ -17,3 +17,5 @@ transmission
 transmission-daemon 
 terminology
 docker.io
+python3-pip
+zip
